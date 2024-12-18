@@ -1,9 +1,8 @@
 # Programacion-Competitiva-Basica
-Ejercicios de un ramo electivo de programacion competitiva
+Ejercicios del ramo Programacion competitiva
 
+Juez: [Online Judge](https://onlinejudge.org/).
 
-//Juez: Online Judge
-//Compilador C++ 5 (NO C++ ll)
-//Online Judge ID: 1134306 (User: Chulz)
+Compilador: C++ 5 (NO C++ ll)
 
-Cada uno de los archivos ".cpp" tienen mi ID en la pagina y el juez. Pero aqui lo dejo por si acaso
+Online Judge ID: 1134306 (User: Chulz)
