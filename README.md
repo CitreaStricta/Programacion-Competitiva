@@ -1,5 +1,5 @@
 # Programacion-Competitiva-Basica
-Ejercicios del ramo Programacion competitiva
+Ejercicios del ramo Programacion competitiva.
 
 Juez: [Online Judge](https://onlinejudge.org/).
 
